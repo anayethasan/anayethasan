@@ -87,6 +87,7 @@
 <img src="https://cdn.simpleicons.org/odoo/714B67" width="48" height="48" alt="Odoo"/>
 <img src="https://www.django-rest-framework.org/img/logo.png" width="48" height="48" alt="DRF"/>
 <img src="https://cdn.simpleicons.org/fastapi/009688" width="48" height="48" alt="FastAPI"/>
+</p>
 
 #### 🗄 Database
 <p>
@@ -124,18 +125,11 @@
 ---
 
 # 🌐 Connect With Me
-<p align="left">
-  <a href="https://github.com/anayethasan">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 
-  <a href="https://www.linkedin.com/feed/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:mdneloy256@@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<p align="center">
+<a href="https://www.linkedin.com/in/anayet-hasan-niloy/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.geeksforgeeks.org/profile/niloy10"><img src="https://img.icons8.com/color/48/GeeksforGeeks.png" height="48"/></a>
+<a href="mdneloy256@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 
