@@ -84,7 +84,7 @@
           srcset="https://cdn.simpleicons.org/socketdotio/white">
   <img src="https://cdn.simpleicons.org/socketdotio/000000" width="48" alt="Socket.io">
 </picture>
-
+<img src="https://cdn.simpleicons.org/odoo/714B67" width="48" height="48" alt="Odoo"/>
 
 #### 🗄 Database
 <p>
