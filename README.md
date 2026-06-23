@@ -85,6 +85,7 @@
   <img src="https://cdn.simpleicons.org/socketdotio/000000" width="48" alt="Socket.io">
 </picture>
 <img src="https://cdn.simpleicons.org/odoo/714B67" width="48" height="48" alt="Odoo"/>
+<img src="https://www.django-rest-framework.org/img/logo.png" width="48" height="48" alt="DRF"/>
 
 #### 🗄 Database
 <p>
@@ -95,6 +96,7 @@
 <p>
 <img src="https://skillicons.dev/icons?i=photoshop,postman,git,github,vscode,illustrator" />
 <img src="https://cdn.simpleicons.org/cloudinary/3448C5" alt="Cloudinary" width="48" height="48"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" width="48" height="48" alt="Premiere Pro"/>
 </p>
 
 ---
