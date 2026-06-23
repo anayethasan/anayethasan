@@ -129,7 +129,9 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/anayet-hasan-niloy/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://www.geeksforgeeks.org/profile/niloy10"><img src="https://img.icons8.com/color/48/GeeksforGeeks.png" height="48"/></a>
-<a href="mdneloy256@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="mailto:mdneloy256@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 </p>
 
 
