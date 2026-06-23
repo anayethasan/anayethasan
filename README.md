@@ -1,9 +1,7 @@
 # Hi 👋, I'm Anayet Hasan Niloy
 
-<h3 align="center">Competitive Programmer • Problem Solver • Software Engineer</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=DSA+Enthusiast;Competitive+Programmer;Problem+Solver;C%2B%2B+%7C+Python+%7C+C;Backend+Developer;Django+%7C+DRF+%7C+Node.js;React+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=DSA+Enthusiast;Software+Engineer;Competitive+Programmer;Problem+Solver;C%2B%2B+%7C+Python+%7C+C;Backend+Developer;Django+%7C+DRF+%7C+Node.js;React+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
