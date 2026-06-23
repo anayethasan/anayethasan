@@ -18,29 +18,7 @@
 
 ---
 
-
-
-# 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/anayethasan">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/feed/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:mdneloy256@@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## ⚔️ Competitive Programming
-
----
 
 # CP Skills
 
@@ -63,6 +41,8 @@
 - Sliding Window
 - Two Pointer
 
+---
+
 # 🏆 Competitive Programming Profiles
 
 <p align="center">
@@ -75,34 +55,45 @@
 
 ---
 
-## 🌐 Web Development
+### ⚙️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,django,mongodb,mysql,postgres" />
+#### 🧩 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" />
 </p>
 
-### Frontend
-- HTML
-- CSS
-- JavaScript
-- React
+#### 🌐 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,nextjs" />
+<img src="https://cdn.simpleicons.org/reactrouter/CA4245" width="48" height="48" alt="React Router"/>
+</p>
 
-### Backend
-- Node.js
-- Express.js
-- Django
-- Django REST Framework (DRF)
+#### 🛠 Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,firebase" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://cdn.simpleicons.org/jsonwebtokens/white">
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="48" alt="JWT">
+</picture>
 
-### Database
-- MySQL
-- PostgreSQL
-- MongoDB
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://cdn.simpleicons.org/socketdotio/white">
+  <img src="https://cdn.simpleicons.org/socketdotio/000000" width="48" alt="Socket.io">
+</picture>
 
-### Others
-- Cloudinary
-- Git
-- GitHub
-- REST API
+
+#### 🗄 Database
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+</p>
+
+#### 🎨 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=photoshop,postman,git,github,vscode,illustrator" />
+<img src="https://cdn.simpleicons.org/cloudinary/3448C5" alt="Cloudinary" width="48" height="48"/>
+</p>
 
 ---
 
@@ -126,6 +117,22 @@
 </p>
 
 ---
+
+# 🌐 Connect With Me
+<p align="left">
+  <a href="https://github.com/anayethasan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/feed/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:mdneloy256@@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer" />
