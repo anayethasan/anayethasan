@@ -38,13 +38,11 @@
 
 ---
 
-# 🛠️ Skills & Technologies
-
 ## ⚔️ Competitive Programming
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,py,c" />
-</p>
+---
+
+# CP Skills
 
 - DSA
 - Problem Solving
@@ -64,6 +62,16 @@
 - Binary Search
 - Sliding Window
 - Two Pointer
+
+# 🏆 Competitive Programming Profiles
+
+<p align="center">
+<a href="https://codeforces.com/profile/Anayet_Hasan_Niloy10"><img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces" /></a>
+<a href="https://leetcode.com/u/Anayet_Hasan_Niloy/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" /></a>
+<a href="https://www.codechef.com/users/niloy10"><img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef" /></a>
+<a href="https://lightoj.com/user/anayet_niloy10"><img src="https://img.shields.io/badge/LightOJ-red?style=for-the-badge&logo=bookstack&logoColor=white" /></a>
+<a href="https://cses.fi/user/312020"><img src="https://img.shields.io/badge/CSES-darkblue?style=for-the-badge&logo=academia&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -107,28 +115,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anayethasan&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🏆 Competitive Programming Profiles
-
-<p align="left">
-  <a href="https://codeforces.com/">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-
-  <a href="https://www.codechef.com/">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-
-  <a href="https://atcoder.jp/">
-    <img src="https://img.shields.io/badge/AtCoder-222222?style=for-the-badge" />
-  </a>
 </p>
 
 ---
