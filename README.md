@@ -86,6 +86,7 @@
 </picture>
 <img src="https://cdn.simpleicons.org/odoo/714B67" width="48" height="48" alt="Odoo"/>
 <img src="https://www.django-rest-framework.org/img/logo.png" width="48" height="48" alt="DRF"/>
+<img src="https://cdn.simpleicons.org/fastapi/009688" width="48" height="48" alt="FastAPI"/>
 
 #### 🗄 Database
 <p>
