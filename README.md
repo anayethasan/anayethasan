@@ -20,7 +20,7 @@
 
 ## ⚔️ Competitive Programming
 
-# CP Skills
+# 🧠 CP Skills
 
 - DSA
 - Problem Solving
