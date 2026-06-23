@@ -49,8 +49,10 @@
 <a href="https://codeforces.com/profile/Anayet_Hasan_Niloy10"><img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces" /></a>
 <a href="https://leetcode.com/u/Anayet_Hasan_Niloy/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" /></a>
 <a href="https://www.codechef.com/users/niloy10"><img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef" /></a>
+<a href="https://www.naukri.com/code360/profile/raihanakash"><img src="https://img.shields.io/badge/Code360-purple?style=for-the-badge&logo=codesandbox&logoColor=white" /></a>
 <a href="https://lightoj.com/user/anayet_niloy10"><img src="https://img.shields.io/badge/LightOJ-red?style=for-the-badge&logo=bookstack&logoColor=white" /></a>
 <a href="https://cses.fi/user/312020"><img src="https://img.shields.io/badge/CSES-darkblue?style=for-the-badge&logo=academia&logoColor=white" /></a>
+<a href="https://atcoder.jp/users/raihanakash"><img src="https://img.shields.io/badge/AtCoder-gray?style=for-the-badge&logo=atcoder&logoColor=white" /></a>
 </p>
 
 ---
@@ -64,7 +66,7 @@
 
 #### 🌐 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,nextjs" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,sass,redux,bootstrap,nextjs" />
 <img src="https://cdn.simpleicons.org/reactrouter/CA4245" width="48" height="48" alt="React Router"/>
 </p>
 
